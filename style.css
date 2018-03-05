@@ -1,0 +1,25 @@
+.ui.huge.header {
+  color: darkblue;
+}
+.ui.tiny.header{
+  color: darkblue;
+}
+locale{
+  color: darkblue;
+}
+row{
+  color: darkblue;
+  padding-right: 14px;
+}
+bold{
+  margin-left: 20px;
+  font-size: 10px;
+  color: darkgrey;
+}
+.ui.divider{
+  color: darkblue;
+  height: 2px;
+}
+.ui.borderless.menu{
+  color: blue;
+}
